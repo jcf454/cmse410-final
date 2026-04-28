@@ -23,7 +23,6 @@ The central focus of this project is reproducibility. Every random seed is fixed
 - [Requirements](#requirements)
 - [Installation](#installation)
 - [How to Run](#how-to-run)
-- [Repository Structure](#repository-structure)
 - [Results](#results)
 - [Reproducibility](#reproducibility)
 - [Known Issues and Fixes](#known-issues-and-fixes)
